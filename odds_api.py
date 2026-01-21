@@ -2,7 +2,7 @@
 
 import requests
 
-API_KEY = "ac1088e5380ddf9d98ccf495c6ffbdab" 
+API_KEY = "" 
 SPORT = "baseball_mlb"
 REGIONS = "us"
 MARKETS = "totals"
